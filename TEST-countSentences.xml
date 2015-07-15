@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+	<testsuite tests="4" errors="0" failures="0" time="0.007" timestamp="2015-07-15T16:24:02">
+		<testcase classname="countSentences" name="#countSentences should return the number of sentences in a string" time="0.004">
+		</testcase>
+		<testcase classname="countSentences" name="#countSentences should account for question marks" time="0.001">
+		</testcase>
+		<testcase classname="countSentences" name="#countSentences should account for exclamation points" time="0">
+		</testcase>
+		<testcase classname="countSentences" name="#countSentences should return zero if there are no sentences in a string" time="0">
+		</testcase>
+	</testsuite>
+</testsuites>
+
